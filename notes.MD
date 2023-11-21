@@ -1,0 +1,4 @@
+##Cryptics
+##AI
+CATEGORIES
+-
